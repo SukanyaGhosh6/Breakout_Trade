@@ -74,6 +74,6 @@ only the frontend design using XML has been made till now,the development of the
 
 **Contact:**
 
-For support, feedback, or inquiries, please contact the development team at breakout.trade.support@example.com or visit our GitHub repository: [https://github.com/SukanyaGhosh6/breakout-trade](https://github.com/SukanyaGhosh6/breakout-trade).
+For support, feedback, or inquiries, please contact me at my GitHub repository: [https://github.com/SukanyaGhosh6/breakout-trade](https://github.com/SukanyaGhosh6/breakout-trade).
 
 ---
