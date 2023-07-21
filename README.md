@@ -1,5 +1,11 @@
 # Breakout_Trade
 **Breakout Trade App Readme**
+**Screenshots of the App:**
+![Screenshot (138)](https://github.com/SukanyaGhosh6/Breakout_Trade/assets/78369568/17c56411-cc47-44d1-aff7-70853380213f)
+![Screenshot (137)](https://github.com/SukanyaGhosh6/Breakout_Trade/assets/78369568/cfc7b4c4-f7ed-4f47-a232-35047267ad88)
+![Screenshot (136)](https://github.com/SukanyaGhosh6/Breakout_Trade/assets/78369568/b462647b-af37-4b0c-a26a-c5f32baaa83f)
+![Screenshot (135)](https://github.com/SukanyaGhosh6/Breakout_Trade/assets/78369568/25221978-f60b-48fb-9fd1-febfb9f97c2c)
+![Screenshot (134)](https://github.com/SukanyaGhosh6/Breakout_Trade/assets/78369568/1adf1ac1-d338-418f-86b5-c72e5699c711)
 
 **Description:**
 
