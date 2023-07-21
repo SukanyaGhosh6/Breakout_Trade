@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Breakout Trade</string>
+    <string name="f_o_stocks"><![CDATA[F&O Stocks]]></string>
+    <string name="f_stocks"><![CDATA[F & Stocks]]></string>
+</resources>

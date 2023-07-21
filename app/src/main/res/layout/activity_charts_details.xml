@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ChartsDetails">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/colorfileblue" />
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="700dp"
+        android:background="@drawable/whitebg"
+        android:layout_marginTop="100dp"/>
+    <ImageView
+        android:layout_width="70dp"
+        android:layout_height="53dp"
+        android:layout_marginTop="38dp"
+        android:src="@drawable/img_20"/>
+    <TextView
+        android:layout_width="120dp"
+        android:layout_height="20dp"
+        android:layout_marginTop="53dp"
+        android:layout_marginLeft="70dp"
+        android:text="Charts Details"
+        android:fontFamily="@font/metro_m"
+        android:textSize="16dp"
+        android:lineHeight="16dp"
+        android:textColor="#FFFFFF"/>
+    <TextView
+        android:layout_width="333dp"
+        android:layout_height="23dp"
+        android:layout_marginTop="107dp"
+        android:layout_marginLeft="16dp"
+        android:text="Below Posted Chart is for reference purpose only"
+        android:fontFamily="@font/metro_m"
+        android:textSize="13dp"
+        android:lineHeight="13dp"
+        android:textColor="#000000"/>
+    <ImageView
+        android:layout_width="358dp"
+        android:layout_height="177dp"
+        android:layout_marginTop="136dp"
+        android:layout_marginLeft="16dp"
+        android:src="@drawable/borderforrectangle"/>
+    <ImageView
+        android:layout_width="358dp"
+        android:layout_height="177dp"
+        android:layout_marginTop="136dp"
+        android:layout_marginLeft="16dp"
+        android:src="@drawable/img_51"/>
+    <TextView
+        android:layout_width="120dp"
+        android:layout_height="16dp"
+        android:layout_marginTop="329dp"
+        android:layout_marginLeft="136dp"
+        android:text="Pinch out to Zoom"
+        android:fontFamily="@font/metro_m"
+        android:textSize="13dp"
+        android:lineHeight="13dp"
+        android:textAlignment="center"/>
+    <ImageView
+        android:layout_width="358dp"
+        android:layout_height="116dp"
+        android:layout_marginTop="381dp"
+        android:layout_marginLeft="16dp"
+        android:src="@drawable/img_52"/>
+    <TextView
+        android:layout_width="307dp"
+        android:layout_height="84dp"
+        android:layout_marginTop="397dp"
+        android:layout_marginLeft="30dp"
+        android:text="BIRLACORN has formed darvas box pattern on weekly time frame.1234 is an important level to watch out for breakout."
+        android:fontFamily="@font/metro_m"
+        android:textSize="17dp"
+        android:lineHeight="20.57dp" />
+    <ImageView
+        android:layout_width="358dp"
+        android:layout_height="52dp"
+        android:layout_marginTop="611dp"
+        android:layout_marginLeft="16dp"
+        android:background="@drawable/bluerectangle"/>
+    <TextView
+        android:layout_width="153dp"
+        android:layout_height="20dp"
+        android:layout_marginTop="620dp"
+        android:layout_marginLeft="118dp"
+        android:text="View Live Chart"
+        android:fontFamily="@font/metro_m"
+        android:textSize="20dp"
+        android:lineHeight="20dp"
+        android:textAlignment="center"
+        android:textColor="#FFFFFF"/>
+
+</RelativeLayout>
