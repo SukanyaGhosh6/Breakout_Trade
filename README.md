@@ -48,7 +48,7 @@ To run Breakout Trade on your Android device or emulator, ensure you have the fo
 1. Clone the "Breakout Trade" repository to your local machine:
 
    ```
-   git clone https://github.com/your-username/breakout-trade.git
+   git clone https://github.com/SukanyaGhosh6/breakout-trade.git
    ```
 
 2. Open Android Studio and import the project.
